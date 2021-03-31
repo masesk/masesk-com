@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.c6d714eb.chunk.css",
-    "main.js": "./static/js/main.67b5c66a.chunk.js",
-    "main.js.map": "./static/js/main.67b5c66a.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.dcd564e2.js",
-    "runtime-main.js.map": "./static/js/runtime-main.dcd564e2.js.map",
-    "static/css/2.9f59e212.chunk.css": "./static/css/2.9f59e212.chunk.css",
-    "static/js/2.4e3347b9.chunk.js": "./static/js/2.4e3347b9.chunk.js",
-    "static/js/2.4e3347b9.chunk.js.map": "./static/js/2.4e3347b9.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.fe2b8b3b6837a0213e8722d59aa9b442.js": "./precache-manifest.fe2b8b3b6837a0213e8722d59aa9b442.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.9f59e212.chunk.css.map": "./static/css/2.9f59e212.chunk.css.map",
-    "static/css/main.c6d714eb.chunk.css.map": "./static/css/main.c6d714eb.chunk.css.map",
-    "static/js/2.4e3347b9.chunk.js.LICENSE.txt": "./static/js/2.4e3347b9.chunk.js.LICENSE.txt"
+    "main.css": "/masesk-com/static/css/main.c6d714eb.chunk.css",
+    "main.js": "/masesk-com/static/js/main.5d85c881.chunk.js",
+    "main.js.map": "/masesk-com/static/js/main.5d85c881.chunk.js.map",
+    "runtime-main.js": "/masesk-com/static/js/runtime-main.bb9aee5e.js",
+    "runtime-main.js.map": "/masesk-com/static/js/runtime-main.bb9aee5e.js.map",
+    "static/css/2.9f59e212.chunk.css": "/masesk-com/static/css/2.9f59e212.chunk.css",
+    "static/js/2.4e3347b9.chunk.js": "/masesk-com/static/js/2.4e3347b9.chunk.js",
+    "static/js/2.4e3347b9.chunk.js.map": "/masesk-com/static/js/2.4e3347b9.chunk.js.map",
+    "index.html": "/masesk-com/index.html",
+    "precache-manifest.9ad45e29018886aae4ebb26f31abb2dd.js": "/masesk-com/precache-manifest.9ad45e29018886aae4ebb26f31abb2dd.js",
+    "service-worker.js": "/masesk-com/service-worker.js",
+    "static/css/2.9f59e212.chunk.css.map": "/masesk-com/static/css/2.9f59e212.chunk.css.map",
+    "static/css/main.c6d714eb.chunk.css.map": "/masesk-com/static/css/main.c6d714eb.chunk.css.map",
+    "static/js/2.4e3347b9.chunk.js.LICENSE.txt": "/masesk-com/static/js/2.4e3347b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcd564e2.js",
+    "static/js/runtime-main.bb9aee5e.js",
     "static/css/2.9f59e212.chunk.css",
     "static/js/2.4e3347b9.chunk.js",
     "static/css/main.c6d714eb.chunk.css",
-    "static/js/main.67b5c66a.chunk.js"
+    "static/js/main.5d85c881.chunk.js"
   ]
 }
