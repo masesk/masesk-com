@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/masesk-com/static/css/main.94d3adde.chunk.css",
-    "main.js": "/masesk-com/static/js/main.772bbcbf.chunk.js",
-    "main.js.map": "/masesk-com/static/js/main.772bbcbf.chunk.js.map",
+    "main.js": "/masesk-com/static/js/main.8c613221.chunk.js",
+    "main.js.map": "/masesk-com/static/js/main.8c613221.chunk.js.map",
     "runtime-main.js": "/masesk-com/static/js/runtime-main.bb9aee5e.js",
     "runtime-main.js.map": "/masesk-com/static/js/runtime-main.bb9aee5e.js.map",
     "static/css/2.9f59e212.chunk.css": "/masesk-com/static/css/2.9f59e212.chunk.css",
     "static/js/2.fd3e2343.chunk.js": "/masesk-com/static/js/2.fd3e2343.chunk.js",
     "static/js/2.fd3e2343.chunk.js.map": "/masesk-com/static/js/2.fd3e2343.chunk.js.map",
     "index.html": "/masesk-com/index.html",
-    "precache-manifest.84de6a9ccbbd3a18027a34defadcded0.js": "/masesk-com/precache-manifest.84de6a9ccbbd3a18027a34defadcded0.js",
+    "precache-manifest.ce8efc5b256c2423d19f7459e2109f6a.js": "/masesk-com/precache-manifest.ce8efc5b256c2423d19f7459e2109f6a.js",
     "service-worker.js": "/masesk-com/service-worker.js",
     "static/css/2.9f59e212.chunk.css.map": "/masesk-com/static/css/2.9f59e212.chunk.css.map",
     "static/css/main.94d3adde.chunk.css.map": "/masesk-com/static/css/main.94d3adde.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.9f59e212.chunk.css",
     "static/js/2.fd3e2343.chunk.js",
     "static/css/main.94d3adde.chunk.css",
-    "static/js/main.772bbcbf.chunk.js"
+    "static/js/main.8c613221.chunk.js"
   ]
 }

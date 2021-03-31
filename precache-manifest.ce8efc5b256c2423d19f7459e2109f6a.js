@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3960bc4681801781ce39fa600ac0dd6",
+    "revision": "43919b00fa47c4f077fb0f9f5ca169bc",
     "url": "/masesk-com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masesk-com/static/css/2.9f59e212.chunk.css"
   },
   {
-    "revision": "0c0e6c8c0cabe65d92a5",
+    "revision": "a4efd3f45eff8fea0ecc",
     "url": "/masesk-com/static/css/main.94d3adde.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masesk-com/static/js/2.fd3e2343.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c0e6c8c0cabe65d92a5",
-    "url": "/masesk-com/static/js/main.772bbcbf.chunk.js"
+    "revision": "a4efd3f45eff8fea0ecc",
+    "url": "/masesk-com/static/js/main.8c613221.chunk.js"
   },
   {
     "revision": "0f4ccabda644da9668f9",
